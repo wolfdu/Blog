@@ -7,5 +7,5 @@
 
 ### 十一月
 
-*[vue-cli 2.x初始化配置解析](https://github.com/wolfdu/blog-gitment/issues/6)
-*[Hello Blog！！！](https://github.com/wolfdu/blog-gitment/issues/4)
+* [vue-cli 2.x初始化配置解析](https://github.com/wolfdu/blog-gitment/issues/6)
+* [Hello Blog！！！](https://github.com/wolfdu/blog-gitment/issues/4)
