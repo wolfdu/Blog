@@ -1,6 +1,6 @@
 ## wolfdu文章归档
 ### 十二月
-
+* [一次闲谈引发的关于DOM的思考](https://github.com/wolfdu/blog-gitment/issues/10)
 * [JavaScript模拟实现call，apply，bind等方法](https://github.com/wolfdu/blog-gitment/issues/9)
 * [JavaScript执行上下文](https://github.com/wolfdu/blog-gitment/issues/1)
 * [JavaScript从原型到原型链](https://github.com/wolfdu/blog-gitment/issues/7)
