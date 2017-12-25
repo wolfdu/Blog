@@ -1,6 +1,7 @@
 ## wolfdu文章归档
 ### 十二月
 
+* [_.debounce源码学习](https://github.com/wolfdu/blog-gitment/issues/18)
 * [记录blog https升级](https://github.com/wolfdu/blog-gitment/issues/17)
 * [一次闲谈引发的关于DOM的思考](https://github.com/wolfdu/blog-gitment/issues/11)
 * [JavaScript模拟实现call，apply，bind等方法](https://github.com/wolfdu/blog-gitment/issues/12)
