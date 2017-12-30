@@ -1,6 +1,7 @@
 ## wolfdu文章归档
 ### 十二月
 
+* [new运算符模拟实现](https://github.com/wolfdu/blog-gitment/issues/19)
 * [_.debounce源码学习](https://github.com/wolfdu/blog-gitment/issues/18)
 * [记录blog https升级](https://github.com/wolfdu/blog-gitment/issues/17)
 * [一次闲谈引发的关于DOM的思考](https://github.com/wolfdu/blog-gitment/issues/11)
