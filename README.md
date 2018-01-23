@@ -7,7 +7,6 @@
 ## 2017
 ### 十二月
 
-* [this你到底指向哪里](https://github.com/wolfdu/blog-gitment/issues/21)
 * [new运算符模拟实现](https://github.com/wolfdu/blog-gitment/issues/19)
 * [_.debounce源码学习](https://github.com/wolfdu/blog-gitment/issues/18)
 * [记录blog https升级](https://github.com/wolfdu/blog-gitment/issues/17)
