@@ -2,6 +2,9 @@
 ## 2018
 ### 一月
 
+* [TCP的握手分手八卦细节](https://github.com/wolfdu/blog-gitment/issues/24)
+* [设计模式之观察者模式](https://github.com/wolfdu/blog-gitment/issues/23)
+* [CSS居中解决方案](https://github.com/wolfdu/blog-gitment/issues/22)
 * [this你到底指向哪里](https://github.com/wolfdu/blog-gitment/issues/21)
 
 ## 2017
