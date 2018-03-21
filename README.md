@@ -2,6 +2,8 @@
 ## 2018
 ### 一月
 
+* [一月奇文共赏](https://github.com/wolfdu/blog-gitment/issues/26)
+* [前端模块化、组件化](https://github.com/wolfdu/blog-gitment/issues/25)
 * [TCP的握手分手八卦细节](https://github.com/wolfdu/blog-gitment/issues/24)
 * [设计模式之观察者模式](https://github.com/wolfdu/blog-gitment/issues/23)
 * [CSS居中解决方案](https://github.com/wolfdu/blog-gitment/issues/22)
